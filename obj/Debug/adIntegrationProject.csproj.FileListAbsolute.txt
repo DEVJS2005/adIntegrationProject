@@ -1,0 +1,11 @@
+J:\Projetos\adIntegrationProject\bin\Debug\adIntegrationProject.exe.config
+J:\Projetos\adIntegrationProject\bin\Debug\adIntegrationProject.exe
+J:\Projetos\adIntegrationProject\bin\Debug\adIntegrationProject.pdb
+J:\Projetos\adIntegrationProject\obj\Debug\adIntegrationProject.csproj.AssemblyReference.cache
+J:\Projetos\adIntegrationProject\obj\Debug\adIntegrationProject.SIAD.resources
+J:\Projetos\adIntegrationProject\obj\Debug\adIntegrationProject.Properties.Resources.resources
+J:\Projetos\adIntegrationProject\obj\Debug\adIntegrationProject.telaCadUser.resources
+J:\Projetos\adIntegrationProject\obj\Debug\adIntegrationProject.csproj.GenerateResource.cache
+J:\Projetos\adIntegrationProject\obj\Debug\adIntegrationProject.csproj.CoreCompileInputs.cache
+J:\Projetos\adIntegrationProject\obj\Debug\adIntegrationProject.exe
+J:\Projetos\adIntegrationProject\obj\Debug\adIntegrationProject.pdb
